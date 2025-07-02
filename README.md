@@ -10,7 +10,7 @@ Devido a componentes interativos e visualizações complexas (`folium`), o rende
 
 **Para visualizar e executar o projeto corretamente, por favor, abra o notebook diretamente no Google Colab usando o link abaixo:**
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/santana4884/MVP-_Planejador_de_Viagens_para_Ve-culos_El-tricos/blob/main/MVP_Planejador_de_Viagens_para_Veículos_Elétricos.ipynb.ipynb)
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/github/santana4884/MVP-_Planejador_de_Viagens_para_Ve-culos_Elétricos/blob/main/MVP-_Planejador_de_Viagens_para_Veículos_Elétricos.ipynb))
 
 ---
 
