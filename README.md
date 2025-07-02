@@ -11,7 +11,6 @@ Devido a componentes interativos e visualizações complexas (`folium`), o rende
 **Para visualizar e executar o projeto corretamente, por favor, abra o notebook diretamente no Google Colab usando o link abaixo:**
 
 [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/santana4884/MVP/blob/main/MVP.ipynb)
-
 ---
 
 ### Resultado Final da Simulação (Exemplo: São Paulo -> Rio de Janeiro)
