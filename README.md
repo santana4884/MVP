@@ -18,7 +18,7 @@ Devido a componentes interativos e visualizações complexas (`folium`), o rende
 
 Abaixo está um exemplo do mapa gerado pela ferramenta para a rota SP-RJ com um veículo de 300km de autonomia.
 
-![Resultado do Mapa](https://github.com/santana4884/MVP-_Planejador_de_Viagens_para_Ve-culos_El-tricos/blob/main/resultado_mapa.jpg?raw=true)
+![Resultado do Mapa](https://github.com/santana4884/MVP-_Planejador_de_Viagens_para_Ve-culos_El-tricos/blob/main/Resultado_mapa.jpg?raw=true)
 
 ---
 
